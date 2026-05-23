@@ -35,6 +35,6 @@ I am a passionate **MERN Stack Developer** focused on building responsive, scala
 
 ### 📬 Connect with Me
 - **Email:** vishalrawat8755@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/vishal-rawat/
-- **LeetCode:** [https://leetcode.com/u/Wizard10/]
+- **LinkedIn:** https://www.linkedin.com/in/vishalrawat10052005/
+- **LeetCode:** https://leetcode.com/u/Wizard10/
 - **Portfolio / Live Apps:** [TechEdify](https://techedify.vercel.app/) | [WanderLust](https://wanderlust-projectvishalrawat.onrender.com/listings)
